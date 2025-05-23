@@ -40,7 +40,6 @@ Meu foco neste projeto foi **treinar o uso de APIs**. Pedi para o ChatGPT criar 
 > **Dica:** Ajuste os valores de `width` caso queira exibir as imagens um pouco maiores ou menores.
 -->
 
----
 
 ## 👨‍💻 Autor
 
