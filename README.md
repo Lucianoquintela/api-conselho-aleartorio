@@ -1,6 +1,6 @@
 # Conselhos Aleatórios com Advice Slip API
 
-Projeto criado para exibir conselhos aleatórios consumindo a API pública **Advice Slip**.
+Site criado para exibir conselhos aleatórios consumindo a API pública **Advice Slip**.
 
 [🔗 Acesse o site aqui!](#) <!-- Coloque aqui o link do seu site ou GitHub Pages, se tiver -->
 
@@ -15,9 +15,11 @@ Projeto criado para exibir conselhos aleatórios consumindo a API pública **Adv
 ---
 
 ## 📜 Sobre o Projeto
-Este projeto consome a Advice Slip API para exibir um conselho aleatório sempre que a página é carregada.
+
+Este site consome a Advice Slip API para exibir um conselho aleatório sempre que a página é carregada.
 
 Meu foco neste projeto foi **treinar o uso de APIs**. Pedi para o ChatGPT criar o HTML e o CSS básico, e depois fiz os ajustes necessários por conta própria. Assim, concentrei meu aprendizado no consumo da API e na manipulação dos dados.
+
 ---
 
 ## 📈 Status do Projeto
