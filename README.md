@@ -2,7 +2,7 @@
 
 Site criado para exibir conselhos aleatórios consumindo a API pública **Advice Slip**.
 
-[🔗 Acesse o site aqui!](#) <!-- Coloque aqui o link do seu site ou GitHub Pages, se tiver -->
+[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/api-conselhos-aleartorios/) <!-- Coloque aqui o link do seu site ou GitHub Pages, se tiver -->
 
 ---
 
